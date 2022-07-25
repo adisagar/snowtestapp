@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Self service request" language="en" table="x_842198_aditya_te_self_service_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Self service request</label>
+            <language>en</language>
+            <name>x_842198_aditya_te_self_service_request</name>
+            <plural>Self service requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:20:54</sys_created_on>
+            <sys_id>8badf2e587385510ba6763d73cbb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Self service request</sys_name>
+            <sys_package display_value="aditya test" source="x_842198_aditya_te">7c2bbe2587385510ba6763d73cbb3577</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="aditya test">7c2bbe2587385510ba6763d73cbb3577</sys_scope>
+            <sys_update_name>sys_documentation_x_842198_aditya_te_self_service_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:20:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

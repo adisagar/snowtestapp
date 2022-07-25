@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template">
+    <sc_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for/>
+        <cat_item display_value="Record Producer Builder">3558cf50c7321010159ca1e603c2605b</cat_item>
+        <name>aditya-test</name>
+        <short_description>aditya-test</short_description>
+        <sys_class_name>sc_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 04:44:46</sys_created_on>
+        <sys_id>a203b89387301110ba6763d73cbb358d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aditya-test</sys_name>
+        <sys_package display_value="aditya test" source="x_842198_aditya_te">7c2bbe2587385510ba6763d73cbb3577</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aditya test">7c2bbe2587385510ba6763d73cbb3577</sys_scope>
+        <sys_update_name>sc_template_a203b89387301110ba6763d73cbb358d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 04:44:46</sys_updated_on>
+    </sc_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=a203b89387301110ba6763d73cbb358d"/>
+</record_update>
